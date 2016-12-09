@@ -1,2 +1,2 @@
-# citizen-science
-Citizen science Interest Group
+# Citizen Science Interest Group
+
