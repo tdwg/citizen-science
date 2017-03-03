@@ -1,5 +1,9 @@
 # Citizen Science Interest Group
 
+![GitHub Logo](citizen-science.jpg)
+Format: ![Alt Text](url)
+
+
 ## Rationale
 
 ## How to contribute
