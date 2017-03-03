@@ -8,3 +8,6 @@
 
 
 ## Team
+
+- Dr. Robert D. Stevenson (UMass Boston - USA)
+- Dr. Etienne Cartolno (Escola Politécnica - Brazil)
