@@ -1,5 +1,3 @@
-# Citizen Science Interest Group
-
 ![GitHub Logo](citizen-science.jpg)
 Credit: The Trustees of the Natural History Museum, London
 
