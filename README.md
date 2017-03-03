@@ -9,5 +9,6 @@
 
 ## Team
 
-- Dr. Robert D. Stevenson (UMass Boston - USA)
-- Dr. Etienne Cartolno (Escola Politécnica - Brazil)
+- Robert D. Stevenson (UMass Boston - USA)
+- Antonio M. Saraiva (Escola Politécnica - Brazil)
+- Etienne Cartolno (Escola Politécnica - Brazil)
