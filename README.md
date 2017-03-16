@@ -2,6 +2,21 @@
 Credit: The Trustees of the Natural History Museum, London
 
 
+#### Initiatives in data standards for citizen science
+
+First Header
+------------
+0000
+0000
+0000
+0000
+
+
+Data Policies for Public Participation in Scientific Research
+DataONE
+August, 2013
+
+
 
 #### Team
 
@@ -10,5 +25,3 @@ Credit: The Trustees of the Natural History Museum, London
 - Libby Ellwood (Florida State University, iDigBio - USA)
 - Robert D. Stevenson (UMass Boston - USA)
 - Stanley Blum (California Academy of Sciences - USA)
-
-
