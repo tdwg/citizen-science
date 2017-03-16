@@ -4,9 +4,9 @@ Credit: The Trustees of the Natural History Museum, London
 ---
 ### Initiatives
 
-⋅⋅* [BioComp](http://www.biocomp.org.br) - Research Center on Biodiversity and Computing--
-⋅⋅* [Codata](http://www.codata.org/task-groups/citizen-science-and-crowdsourced-data) - Citizen Science and the Validation, Curation, and Management of Crowdsourced Data (with WDS)
-⋅⋅* [DataOne](https://www.dataone.org/working_groups/public-participation-science-and-research-working-group) - DataONE Public Participation Science Research Working Group
+* [BioComp](http://www.biocomp.org.br) - Research Center on Biodiversity and Computing
+* [Codata](http://www.codata.org/task-groups/citizen-science-and-crowdsourced-data) - Citizen Science and the Validation, Curation, and Management of Crowdsourced Data (with WDS)
+* [DataOne](https://www.dataone.org/working_groups/public-participation-science-and-research-working-group) - DataONE Public Participation Science Research Working Group
 
 ---
 ## References
