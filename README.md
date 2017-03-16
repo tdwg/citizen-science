@@ -5,6 +5,7 @@ Credit: The Trustees of the Natural History Museum, London
 ### Initiatives
 
 > [BioComp](http://www.biocomp.org.br) - Research Center on Biodiversity and Computing
+
 > [DataOne](https://www.dataone.org/working_groups/public-participation-science-and-research-working-group) - DataONE Public Participation Science Research Working Group
 
 
