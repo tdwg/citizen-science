@@ -2,7 +2,7 @@
 Credit: The Trustees of the Natural History Museum, London
 
 ---
-## Initiatives
+### Initiatives
 
 ⋅⋅* [BioComp](http://www.biocomp.org.br) - Research Center on Biodiversity and Computing--
 ⋅⋅* [Codata](http://www.codata.org/task-groups/citizen-science-and-crowdsourced-data) - Citizen Science and the Validation, Curation, and Management of Crowdsourced Data (with WDS)
