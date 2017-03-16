@@ -2,8 +2,13 @@
 Credit: The Trustees of the Natural History Museum, London
 
 
-## Team
 
+#### Team
+
+- Antonio M. Saraiva (University of São Paulo - Brazil)
+- Etienne Cartolno (University of São Paulo - Brazil)
+- Libby Ellwood (Florida State University, iDigBio - USA)
 - Robert D. Stevenson (UMass Boston - USA)
-- Antonio M. Saraiva (Escola Politécnica - Brazil)
-- Etienne Cartolno (Escola Politécnica - Brazil)
+- Stanley Blum (California Academy of Sciences - USA)
+
+
