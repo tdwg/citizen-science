@@ -14,7 +14,7 @@ Credit: The Trustees of the Natural History Museum, London
 ### References
 
 - [Data Policies for Public Participation in Scientific Research - DataONE - August, 2013](http://www.birds.cornell.edu/citscitoolkit/toolkit/policy/Bowser%20et%20al%202013%20Data%20Policy%20Guide.pdf)
-- [PPSR_CORE](http://citizenscience.org/2015/10/09/ppsr_core-metadata-standard/) PPSR_CORE Program Data Model Metadata Standard 
+- [PPSR_CORE Program Data Model Metadata Standard - Fall, 2013](http://citizenscience.org/2015/10/09/ppsr_core-metadata-standard/)  
 
 ---
 ### Team
