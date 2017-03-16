@@ -2,15 +2,14 @@
 Credit: The Trustees of the Natural History Museum, London
 
 
-#### Initiatives in data standards for citizen science
+### Initiatives
 
-First Header
-------------
-0000
-0000
-0000
-0000
 
+
+
+
+
+### References
 
 Data Policies for Public Participation in Scientific Research
 DataONE
@@ -18,7 +17,7 @@ August, 2013
 
 
 
-#### Team
+### Team
 
 - Antonio M. Saraiva (University of São Paulo - Brazil)
 - Etienne Cartolno (University of São Paulo - Brazil)
