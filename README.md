@@ -24,3 +24,4 @@ Credit: The Trustees of the Natural History Museum, London
 - Libby Ellwood (Florida State University, iDigBio - USA)
 - Robert D. Stevenson (UMass Boston - USA)
 - Stanley Blum (California Academy of Sciences - USA)
+- Peter Brenton (Atlas of Living Australia, CSIRO - Australia)
