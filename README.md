@@ -21,7 +21,7 @@ Credit: The Trustees of the Natural History Museum, London
 
 - Antonio M. Saraiva (University of São Paulo - Brazil)
 - Etienne Cartolano (University of São Paulo - Brazil)
-- Libby Ellwood (Florida State University, iDigBio - USA)
+- Libby Ellwood (Natural History Museum of Los Angeles County - USA)
 - Robert D. Stevenson (UMass Boston - USA)
 - Stanley Blum (California Academy of Sciences - USA)
 - Peter Brenton (Atlas of Living Australia, CSIRO - Australia)
