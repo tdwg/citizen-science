@@ -85,7 +85,7 @@ To participate in the communication system of the group, "watch" the group's Iss
 # Associated Initiatives and Web links
 
 * [OGC](http://www.opengeospatial.org/projects/groups/citizenscience) - Open Geospatial Consortium Citizen Science Task Group
-* [OGC](https://www.opengeospatial.org/projects/initiatives/citsci-ie) - Open Geospatial Consortium Citizen Science Interoperability Experiment
+* [OGC](https://www.opengeospatial.org/projects/initiatives/citsci-ie) - Open Geospatial Consortium WeObserve Citizen Science Interoperability Experiment
 * [COST Action CoP5] (https://www.cs-eu.net/events/internal/workshop-wg-5-towards-new-ontology-citizen-science-novi-sad-march-27-28-2017) - Towards a new ontology of Citizen Science
 * [Wilson Center](https://www.wilsoncenter.org/article/ppsr-core-metadata-standards) - PPSR-Core metadata standards
 * [BioComp](http://www.biocomp.org.br) - Research Center on Biodiversity and Computing
