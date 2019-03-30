@@ -11,9 +11,9 @@ This interest group will focus on the intersection between various TDWG data sta
 The scope of this group includes all aspects of data collection, data quality, metadata and social computing as it pertains to the biodiversity domain. 
 
 The objectives of the Group are:
-to ensure that the biodiversity domain is appropriately accommodated and proscribed within the broader citizen science ecosystem, in particular ensuring that the data requirements of the biodiversity domain are included within the PPSR-Core data and metadata standard initiative; 
-to develop tools and feedback mechanisms that can be deployed across different citizen science applications, and the ways that new data generated from these projects can be seamlessly linked into existing resources and the broader network of biodiversity data, information and knowledge; and
-to produce documents outlining “best practices” and standards as the group deems worthy for any aspect of the citizen science biodiversity data lifecycle.
+1. to ensure that the biodiversity domain is appropriately accommodated and proscribed within the broader citizen science ecosystem, in particular ensuring that the data requirements of the biodiversity domain are included within the PPSR-Core data and metadata standard initiative (see the "PPSR-Core" project and associated wiki page in this repository); 
+2. to develop tools and feedback mechanisms that can be deployed across different citizen science applications, and the ways that new data generated from these projects can be seamlessly linked into existing resources and the broader network of biodiversity data, information and knowledge (see the "Tools & Services" project and associated wiki page in this repository); and
+3. to produce documents outlining “best practices” and standards as the group deems worthy for any aspect of the citizen science biodiversity data lifecycle (see the "Best Practices" project and associated wiki page in this repository).
 
 This Interest Group will liaise closely with related and overlapping TDWG Interest Groups, including the Taxonomic Names and Concepts Interest Group, Imaging, Annotations, Observations & Specimens, Data Quality, Technical Architecture and Vocabulary Documentation and Maintenance. It will also support Open Source and Creative Commons licensing wherever possible.
 
