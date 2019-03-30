@@ -19,7 +19,7 @@ This Interest Group will liaise closely with related and overlapping TDWG Intere
 
 The group also plans to post their products and findings on Github. 
 
----
+
 # Motivation
 
 The blossoming of citizen science around the world presents new opportunities for the general public and scientists to work together on scientific endeavours. Rapid technological advancements have accelerated the adoption of the citizen science approach across a wide range of scientific disciplines. Hundreds of projects are now focused on gathering biodiversity data. 
@@ -30,7 +30,7 @@ The lack of formal training and certification of citizen scientists often result
 
 A logical consequence of the general lack of formal scientific training in citizen science is that the use of common names is more palatable for non-professionals than using scientific names. Thus another of the early tasks of the citizen-science IG is to develop a working group that can focus on standards for use of traditional taxonomic resources with common names resources. This focus aligns with other TDWG activities as TDWG and its members have been continually addressing the complexities of the established scientific taxonomic system.
 
----
+
 # Conveners 
 
 Robert D Stevenson  robert [dot] stevenson [at] umb [dot] edu
@@ -50,7 +50,7 @@ Peter Brenton 	     Peter [dot] Brenton [at] csiro [dot] au
 Atlas of Living Australia, CSIRO
 Canberra, Australia
 
----
+
 # Members
 
 Pierre Bonnet    pierre [dot] bonnet [at] cirad [dot] fr
@@ -64,7 +64,7 @@ Nicole Kearney   (BHL Australia)
 Etienne Cartolano (University of São Paulo - Brazil)
 Stanley Blum (California Academy of Sciences - USA)
 
----
+
 # Participating in this Group
 
 This group welcomes participation from all interested parties from the biological, educational, government resource agency, library, information science, computer science, and web and application development communities, as well as citizen science practitioners from the biodiversity and environment domains. 
@@ -73,14 +73,14 @@ TDWG members interested in data annotation and observation standards are particu
 
 To participate in the communication system of the group, "watch" the group's Issues tracker on GitHub. The issues tracker is the mechanism for suggesting specific changes to the standard as well as to raise issues for discussion by the group.
 
----
+
 # References
 
 - [CSA PPSR-Core Data & Metadata Working Group, 2017](https://www.wilsoncenter.org/sites/default/files/wilson_171204_meta_data_f2.pdf) - Citizen Science Association, PPSR-Core (Public Participation in Scientific Research Core Data & Metadata Standard) 
 - [Data Policies for Public Participation in Scientific Research - DataONE - August, 2013](http://www.birds.cornell.edu/citscitoolkit/toolkit/policy/Bowser%20et%20al%202013%20Data%20Policy%20Guide.pdf)
 - [PPSR_CORE Program Data Model Metadata Standard - Fall, 2013](http://citizenscience.org/2015/10/09/ppsr_core-metadata-standard/)  
 
----
+
 # Associated Initiatives and Web links
 
 * [OGC](http://www.opengeospatial.org/projects/groups/citizenscience) - Open Geospatial Consortium Citizen Science Task Group
@@ -92,7 +92,7 @@ To participate in the communication system of the group, "watch" the group's Iss
 * [Codata](http://www.codata.org/task-groups/citizen-sciandence-and-crowdsourced-data) - Citizen Science Task Group
 * [DataOne](https://www.dataone.org/working_groups/public-participation-science-and-research-working-group) - DataONE Public Participation Science Research Working Group
 
----
+
 # Background and Context
 
 Some might suggest that this group has it origins in TDWG’s 2010 meeting at Woods Hole during which the local organizing committee ran TDWG’s first bioblitz . Some might feel it was earlier efforts in 2008 by Steve Kelling and others to bring organism observations into bioinformatics networks. Still others might think that it was Arthur Chapman’s draft of a citizen science interest group charter in 2014 that marks the beginning of the group. Finding origins may be like asking when did the wind start to blow, but what is clear is that interest has continued to grow since the first decade of this century. For five years in a row (2014-2018), the annual conference has sponsored successful symposia and workshops devoted to citizen science. Now there are willing conveners and a critical number of participants to begin more formal discussions and documentation of how TDWG can shape best practices and develop standards for citizen science projects collecting and curating biodiversity data. Extending TDWG’s history in fostering best practices and standards for the biodiversity community to include citizen science efforts seems like a natural extension and builds from experience and strength.
@@ -107,7 +107,7 @@ Data collected by citizen scientists may have additional criteria to meet before
 [1] http://en.wikipedia.org/wiki/Crowdsourcing
 [2] http://www.openscientist.org/2011/09/finalizing-definition-of-citizen.html
 
----
+
 # Relevant Publications
 
 Bonney, R., Cooper, C.B., Dickinson, J., Kelling, S., Phillips, T., Rosenberg, K.V., Shirk, J., 2009. Citizen science: a developing tool for expanding science knowledge and scientific literacy. Bioscience 59, 977–984. http://dx.doi.org/10.1525/bio.2009.59.11.9.
