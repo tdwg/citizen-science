@@ -54,16 +54,16 @@ Canberra, Australia
 
 # Members
 
-Pierre Bonnet    (pierre.bonnet@cirad.fr)
-Arthur D. Chapman   (biodiv_2@achapman.org)
-Steve Kelling    (stk2.cornell.edu)
-Joel Sachs   (joel.sachs@agr.gc.ca)
-Antonio Saraiva   (saraiva@usp.br) University of São Paulo - Brazil
-Quentin Groom    (quentin.groom@plantentuinmeise.be)
-Alan Stenhouse   alan.stenhouse@adelaide.edu.au
-Nicole Kearney   (BHL Australia)
-Etienne Cartolano (University of São Paulo - Brazil)
-Stanley Blum (California Academy of Sciences - USA)
+- Pierre Bonnet    (pierre.bonnet@cirad.fr)
+- Arthur D. Chapman   (biodiv_2@achapman.org)
+- Steve Kelling    (stk2.cornell.edu)
+- Joel Sachs   (joel.sachs@agr.gc.ca)
+- Antonio Saraiva   (saraiva@usp.br) University of São Paulo - Brazil
+- Quentin Groom    (quentin.groom@plantentuinmeise.be)
+- Alan Stenhouse   alan.stenhouse@adelaide.edu.au
+- Nicole Kearney   (BHL Australia)
+- Etienne Cartolano (University of São Paulo - Brazil)
+- Stanley Blum (California Academy of Sciences - USA)
 
 
 # Participating in this Group
