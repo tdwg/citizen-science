@@ -34,33 +34,33 @@ A logical consequence of the general lack of formal scientific training in citiz
 # Conveners 
 
 Robert D Stevenson
-robert.stevenson@umb.edu
+(robert.stevenson@umb.edu)
 Dept. of Biology
 University of Massachusetts Boston
 100 Morrissey Blvd.
 Boston, MA 02125-3393, USA
 
 Libby Ellwood
-lellwood@tarpits.org
+(lellwood@tarpits.org)
 La Brea Tar Pits and Museum
 5801 Wilshire Blvd.
 Los Angeles, CA 90036, USA
 
 Peter Brenton
-peter.brenton@csiro.au
+(peter.brenton@csiro.au)
 Atlas of Living Australia, CSIRO
 Canberra, Australia
 
 
 # Members
 
-Pierre Bonnet    pierre [dot] bonnet [at] cirad [dot] fr
-Arthur D. Chapman   biodiv_2 [at] achapman [dot] org
-Steve Kelling    stk2 [at] cornell [dot] edu
-Joel Sachs   joel [dot] sachs [at] agr [dot] gc [dot] ca
-Antonio Saraiva   saraiva [at] usp [dot] br (University of São Paulo - Brazil)
-Quentin Groom    quentin [dot] groom [at] plantentuinmeise [dot] be
-Alan Stenhouse   alan [dot] stenhouse [at] adelaide [dot] edu [dot] au
+Pierre Bonnet    (pierre.bonnet@cirad.fr)
+Arthur D. Chapman   (biodiv_2@achapman.org)
+Steve Kelling    (stk2.cornell.edu)
+Joel Sachs   (joel.sachs@agr.gc.ca)
+Antonio Saraiva   (saraiva@usp.br) University of São Paulo - Brazil
+Quentin Groom    (quentin.groom@plantentuinmeise.be)
+Alan Stenhouse   alan.stenhouse@adelaide.edu.au
 Nicole Kearney   (BHL Australia)
 Etienne Cartolano (University of São Paulo - Brazil)
 Stanley Blum (California Academy of Sciences - USA)
