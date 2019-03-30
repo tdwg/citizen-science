@@ -33,7 +33,7 @@ A logical consequence of the general lack of formal scientific training in citiz
 
 # Conveners 
 
-Robert D Stevenson  robert [dot] stevenson [at] umb [dot] edu
+Robert D Stevenson  robert.stevenson@umb.edu
 Dept. of Biology
 University of Massachusetts Boston
 100 Morrissey Blvd.
