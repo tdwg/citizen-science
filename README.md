@@ -41,7 +41,7 @@ University of Massachusetts Boston
 Boston, MA 02125-3393, USA
 
 - Libby Ellwood
-(lellwood@tarpits.org)
+(ellwoodlibby@gmail.com)
 La Brea Tar Pits and Museum
 5801 Wilshire Blvd.
 Los Angeles, CA 90036, USA
@@ -65,6 +65,7 @@ Canberra, Australia
 - Etienne Cartolano (University of São Paulo - Brazil)
 - Stanley Blum (California Academy of Sciences - USA)
 - Peter Desmet 
+- Tom August (tomaug@ceh.ac.uk)
 
 
 # Participating in this Group
