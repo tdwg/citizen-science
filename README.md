@@ -65,6 +65,8 @@ Canberra, Australia
 - Etienne Cartolano (University of São Paulo - Brazil)
 - Stanley Blum (California Academy of Sciences - USA)
 - Peter Desmet 
+- Lucy Basten (Lucy.BASTIN@ec.europa.eu)
+- Sven Schade (sven.schade@jrc.ec.europa.eu)
 - Tom August (tomaug@ceh.ac.uk)
 
 
