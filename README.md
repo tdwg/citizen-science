@@ -56,13 +56,13 @@ Canberra, Australia
 - Arthur D. Chapman (biodiv_2@achapman.org)
 - Steve Kelling (stk2@cornell.edu)
 - Joel Sachs (joel.sachs@agr.gc.ca)
-- Antonio Saraiva (University of São Paulo - Brazil, saraiva@usp.br)
+- Antonio Saraiva (saraiva@usp.br) - University of São Paulo
 - Quentin Groom (quentin.groom@plantentuinmeise.be)
 - Alan Stenhouse (alan.stenhouse@adelaide.edu.au)
-- Nicole Kearney (BHL Australia)
-- Etienne Cartolano (University of São Paulo - Brazil)
-- Stanley Blum (California Academy of Sciences - USA)
-- Peter Desmet
+- Nicole Kearney - BHL Australia
+- Etienne Cartolano - University of São Paulo
+- Stanley Blum - California Academy of Sciences
+- Tim Adrians - Research Institute for Nature and Forest (INBO)
 - Lucy Basten (lucy.bastin@ec.europa.eu)
 - Sven Schade (sven.schade@jrc.ec.europa.eu)
 - Tom August (tomaug@ceh.ac.uk)
